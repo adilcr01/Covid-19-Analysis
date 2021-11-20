@@ -7,7 +7,7 @@ http://htmlpreview.github.io/?https://github.com/adilcr01/Covid-19-Indian-States
 ## Change in cured cases since yesterday Plotly Graph link
 http://htmlpreview.github.io/?https://github.com/adilcr01/Covid-19-Indian-States-Analysis/blob/main/Plotly%20Graphs/Change%20in%20cured%20cases%20since%20yesterday.html
 
-## Daily change in covid cases vs states Plotly Graph link
+## Change in Active Covid cases since yesterday vs states Plotly Graph link
 http://htmlpreview.github.io/?https://github.com/adilcr01/Covid-19-Indian-States-Analysis/blob/main/Plotly%20Graphs/Daily%20change%20in%20covid%20cases%20vs%20states.html
 
 ## Total Active Covid cases vs States Plotly Graph link
