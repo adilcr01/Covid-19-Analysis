@@ -4,6 +4,9 @@
 
 ##### India State wise Covid 19 Analysis on data Web scraped from “Ministry of Health and Family Welfare, Government of India” website using Selenium, Beautifulsoap and the insights gather from data are represented graphically via data visualization library Plotly.
 
+##### The link of website from which the Covid data is scrapped is given below:  
+https://www.mohfw.gov.in/  
+
 ## Screenshots
 
 ![plotly graph 1](https://user-images.githubusercontent.com/93968656/143460500-c88107e9-0dc0-400a-953a-fd099af57da2.png)
