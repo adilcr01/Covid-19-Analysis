@@ -20,7 +20,7 @@ https://www.mohfw.gov.in/
 ## Tech Stacks
 ##### Programming Language : Python
 ##### WebFramework : Steamlit
-##### Machine Learning Libraries: Pandas
+##### Data Manipulation Libraries: Pandas
 ##### Visulaization Library: Plotly
 ##### WebScrapping Library: Selenium,Beautifulsoap
 
