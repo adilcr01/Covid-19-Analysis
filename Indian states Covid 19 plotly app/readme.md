@@ -45,6 +45,6 @@ https://indian-state-covid19.herokuapp.com/
    ##### 1. Clone this repository in your local system.
    ##### 2. Download the chrome driver as per your chrome version from https://chromedriver.chromium.org/downloads 
    ##### 2. Open your IDE from your project directory and Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.
-   ##### 3. Run the app.py file by clicking the run button.
+   ##### 3. Type command "streamlit run app.py" in the terminal to run the app.
    ##### 4. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
    ##### Hurray! That's it.
