@@ -25,17 +25,16 @@ https://www.mohfw.gov.in/
 ##### WebScrapping Library: Selenium,Beautifulsoap
 
 
-## Deployement on Heroku
-##### Login or signup in order to create virtual app. You can either connect your github profile or download Heroku cli to manually deploy this project.
-![image](https://user-images.githubusercontent.com/93968656/141473709-159ff490-856e-4cab-95b0-504d52b8eaea.png)
+## Deployement on Streamlit
+##### Login or signup in order to create virtual app. You can connect your github profile to deploy this project.
+![image](https://user-images.githubusercontent.com/93968656/218261093-e40edce1-ea4d-4ee6-a900-e67c90ad9f36.png)
 
-##### The next step would be to follow the instruction given in the Heroku Documentation to deploy a web app.
+##### The next step would be to follow the instruction given in the Streamlit Documentation to deploy a web app.
 
 
 ## Link to the application 
 
-##### Check out the live demo:
-https://indian-state-covid19.herokuapp.com/
+##### Check out the live demo:[Link](https://adilcr01-covid-19-indian-states-analysis-app-7si65v.streamlit.app/)
 
 #### Loading of app might take some time as the Webframework used is Streamlit
 
